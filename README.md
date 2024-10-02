@@ -6,4 +6,4 @@ UF faculty
 
 - [GECAT demo website](francis-john-ufl.github.io/gecat-demo)
 - [GECAT demo download for windows](https://github.com/francis-john-ufl/gecat-demo/releases/latest)
-- [Feedback form]()
+- [Feedback form](https://forms.gle/x18gML9usuych3GKA)
