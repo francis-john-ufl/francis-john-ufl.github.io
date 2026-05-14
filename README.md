@@ -17,4 +17,5 @@ UF faculty
 
 # ALRADS lab reference
 - [HiperGator commands cheat sheet](https://francis-john-ufl.github.io/hipergator-commands)
+- [Phits docker image](https://github.com/francis-john-ufl/phits-container)
   
