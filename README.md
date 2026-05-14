@@ -13,3 +13,8 @@ UF faculty
 # GECAT BodyScanner
 
 - [GECAT BodyScanner demo website](https://francis-john-ufl.github.io/gecat-bodyscanner-demo/)
+
+
+# ALRADS lab reference
+- [HiperGator commands cheat sheet](https://francis-john-ufl.github.io/hipergator-commands)
+  
