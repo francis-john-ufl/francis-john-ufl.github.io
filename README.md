@@ -1,5 +1,5 @@
 # John Francis
-UF faculty
+UF Medical Physics
 
 
 # GECAT testing
